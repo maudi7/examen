@@ -71,6 +71,5 @@ function invertir() {
     resultadoDiv.innerHTML = html;
 }
 
-document.getElementById("btnIngresar").addEventListener("click", ingresar);
-document.getElementById("btnRetirar").addEventListener("click", retirar);
-document.getElementById("btnInvertir").addEventListener("click", invertir);
+
+
